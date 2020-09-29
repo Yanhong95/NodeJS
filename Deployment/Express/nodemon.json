@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "YanhongChen",
+    "MONGO_PASSWORD": "Cyh19950129",
+    "MONGO_DATABASE": "ExpressShopProject",
+    "STRIPE_KEY": "sk_test_51Gu1oaEj9kkxfAq5PtIQZUvlEE6IlJpQN8hwfKP7nIXikIZpsysR0aYJshocriWswRKt4bv8n2NPAdPcdpFqk0Tv00y89NMEK3"
+  }
+}
